@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiDubbs
 - 👀 I’m interested in AI and App Development
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m a high school graduate, going to college next year
 - 📫 How to reach me adityadubeyms@gmail.com
 
