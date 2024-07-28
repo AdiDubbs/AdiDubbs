@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiDubbs
 - 👀 I’m interested in AI and App Development
-- 💞️ I’m a sophomore at the University of Wisconsin Madison
+- 💞️ I’m a undergradudate student at the University of Wisconsin Madison
 - 📫 How to reach me adubey7@wisc.edu
 
 <!---
