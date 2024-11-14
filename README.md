@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiDubbs
-- My full name is Aditya Dubey
+- 😊 My full name is Aditya Dubey
 - 👀 I’m interested in App Development, Web Development and Machine Learning
 - 💞️ I’m an undergradudate student at the University of Wisconsin-Madison
 - 📫 How to reach me adubey7@wisc.edu
